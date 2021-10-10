@@ -1,0 +1,4 @@
+App-backend/node_modules
+App-backend/config.env
+App-frontend/node_modules
+App-video-call/node_modules
